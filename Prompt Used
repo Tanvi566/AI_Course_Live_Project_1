@@ -1,0 +1,26 @@
+Act as an expert Python developer.
+
+Create a simple AI chatbot using the Google Gemini API.
+
+Requirements:
+- Use Python and Streamlit.
+- Use the latest Google Gemini API.
+- Read the Gemini API key from a .env file.
+- Create a simple interface with:
+  - A title
+  - A text input for the user's query
+  - A "Send" button
+  - An area to display the AI's response
+- If the user enters an empty query, display an appropriate message.
+- Handle API errors gracefully.
+- Write clean, beginner-friendly, well-commented code.
+- Also generate:
+  - app.py
+  - requirements.txt
+  - .env.example
+  - README.md
+  - .gitignore
+- Explain how to install the dependencies and run the chatbot locally.
+- Use the latest recommended Google Generative AI SDK and best coding practices.
+
+Provide the complete code for each file separately.
